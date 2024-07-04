@@ -1,4 +1,4 @@
 all:
-      gcc test.c
+      gcc test.c -o test
 check:
       ./a.out
